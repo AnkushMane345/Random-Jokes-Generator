@@ -54,7 +54,7 @@ Saves the user's preference in localStorage.
 
 Clone the repository
 
-git clone https://github.com/yourusername/random-joke-generator.git
+git clone https://github.com/AnkushMane345/random-joke-generator.git
 
 Open the project folder
 
