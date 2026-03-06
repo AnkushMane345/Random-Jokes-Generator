@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Joke Generator</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Dark Mode Toggle Button -->
+    <button class="theme-toggle" id="themeToggle" title="Toggle dark mode">🌙</button>
+
+    <!-- Main Container -->
+    <div class="main-container">
+        <!-- Header Section -->
+        <div class="header">
+            <h1>😂 Random Joke Generator</h1>
+            <p>Brighten your day with hilarious jokes!</p>
+        </div>
+
+        <!-- Joke Card -->
+        <div class="card">
+            <div class="emoji" id="emoji">😄</div>
+            <div id="jokeBox">Click "New Joke" to get started and brighten your day! 🚀</div>
+        </div>
+
+        <!-- Button Container -->
+        <div class="button-container">
+            <button class="btn-primary" onclick="generateJoke()">🎲 New Joke</button>
+            <!-- <button class="btn-secondary" onclick="copyJoke()">📋 Copy Joke</button> -->
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>Enjoy the laughs! Made with ❤️</p>
+        </div>
+    </div>
+
+    <!-- JavaScript Code -->
+    <script src="script.js"></script>
+</body>
+
+</html>
