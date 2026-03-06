@@ -18,29 +18,29 @@ A fun and interactive Random Joke Generator built with HTML, CSS, and JavaScript
 
 **🛠️ Tech Stack**
 
-HTML5 – Structure of the application
+- HTML5 – Structure of the application
 
-CSS3 – Styling and animations
+- CSS3 – Styling and animations
 
-JavaScript (Vanilla JS) – Logic for generating jokes and theme switching
+- JavaScript (Vanilla JS) – Logic for generating jokes and theme switching
 
 **⚙️ How It Works**
 
-A list of jokes is stored in a JavaScript array.
+- A list of jokes is stored in a JavaScript array.
 
-When the "New Joke" button is clicked:
+- When the "New Joke" button is clicked:
 
-A random joke is selected using Math.random().
+- A random joke is selected using Math.random().
 
-The joke is displayed with a fade-in animation.
+- The joke is displayed with a fade-in animation.
 
-A random emoji appears above the joke.
+- A random emoji appears above the joke.
 
-The dark mode toggle:
+- The dark mode toggle:
 
-Adds or removes the dark-mode class.
+- Adds or removes the dark-mode class.
 
-Saves the user's preference in localStorage.
+- Saves the user's preference in localStorage.
 
 **📸 Preview**
 
@@ -52,17 +52,18 @@ Saves the user's preference in localStorage.
 
 **🧑‍💻 Installation & Usage**
 
-Clone the repository
+- Clone the repository
 
 git clone https://github.com/AnkushMane345/random-joke-generator.git
 
-Open the project folder
+- Open the project folder
 
 cd random-joke-generator
 
-Open index.html in your browser.
+- Open index.html in your browser.
 
 **🌟 Future Improvements**
+
 📋 Copy joke to clipboard feature
 
 🌐 Fetch jokes from a public Jokes API
