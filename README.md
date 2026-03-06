@@ -24,13 +24,6 @@ CSS3 – Styling and animations
 
 JavaScript (Vanilla JS) – Logic for generating jokes and theme switching
 
-**📂 Project Structure**
-random-joke-generator/
-│
-├── index.html      # Main HTML structure
-├── style.css       # Styling and animations
-├── script.js       # Joke logic and dark mode functionality
-└── README.md       # Project documentation
 **⚙️ How It Works**
 
 A list of jokes is stored in a JavaScript array.
@@ -51,9 +44,8 @@ Saves the user's preference in localStorage.
 
 **📸 Preview**
 
-(You can add a screenshot here)
+(screenshot1.png)
 
-![App Screenshot](screenshot.png)
 **🧑‍💻 Installation & Usage**
 
 Clone the repository
