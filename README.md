@@ -44,7 +44,11 @@ Saves the user's preference in localStorage.
 
 **📸 Preview**
 
-(screenshot1.png)
+<img width="1908" height="866" alt="Screenshot1" src="https://github.com/user-attachments/assets/47646e72-fcd4-4463-a85d-4d60d7ab7111" />
+
+
+<img width="1919" height="871" alt="Screenshot 2" src="https://github.com/user-attachments/assets/62eff316-8fd9-4883-88b2-7287f9b29b3e" />
+
 
 **🧑‍💻 Installation & Usage**
 
