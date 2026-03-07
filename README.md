@@ -54,11 +54,11 @@ A fun and interactive Random Joke Generator built with HTML, CSS, and JavaScript
 
 - Clone the repository
 
-git clone https://github.com/AnkushMane345/random-joke-generator.git
+--git clone https://github.com/AnkushMane345/random-joke-generator.git
 
 - Open the project folder
 
-cd random-joke-generator
+--cd random-joke-generator
 
 - Open index.html in your browser.
 
