@@ -1,7 +1,9 @@
 **😂 Random Joke Generator**
 
+---
 A fun and interactive Random Joke Generator built with HTML, CSS, and JavaScript that delivers hilarious jokes with a single click. The app features smooth animations, emoji reactions, and a dark mode toggle for a better user experience.
 
+---
 **🚀 Features**
 
 🎲 Random Joke Generator – Displays a new joke every time you click the button
