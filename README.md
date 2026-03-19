@@ -18,6 +18,7 @@ A fun and interactive Random Joke Generator built with HTML, CSS, and JavaScript
 
 📱 Responsive Design – Works on desktop and mobile devices
 
+---
 **🛠️ Tech Stack**
 
 - HTML5 – Structure of the application
