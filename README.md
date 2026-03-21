@@ -27,6 +27,7 @@ A fun and interactive Random Joke Generator built with HTML, CSS, and JavaScript
 
 - JavaScript (Vanilla JS) – Logic for generating jokes and theme switching
 
+---
 **⚙️ How It Works**
 
 - A list of jokes is stored in a JavaScript array.
