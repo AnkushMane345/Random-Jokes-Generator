@@ -46,6 +46,7 @@ A fun and interactive Random Joke Generator built with HTML, CSS, and JavaScript
 
 - Saves the user's preference in localStorage.
 
+---
 **📸 Preview**
 
 <img width="1908" height="866" alt="Screenshot1" src="https://github.com/user-attachments/assets/47646e72-fcd4-4463-a85d-4d60d7ab7111" />
