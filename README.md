@@ -54,7 +54,7 @@ A fun and interactive Random Joke Generator built with HTML, CSS, and JavaScript
 ---
 <img width="1919" height="871" alt="Screenshot 2" src="https://github.com/user-attachments/assets/62eff316-8fd9-4883-88b2-7287f9b29b3e" />
 
-
+---
 **🧑‍💻 Installation & Usage**
 
 - Clone the repository
