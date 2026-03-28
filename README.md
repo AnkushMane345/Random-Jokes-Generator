@@ -67,6 +67,7 @@ cd random-joke-generator
 
 - Open index.html in your browser.
 
+---
 **🌟 Future Improvements**
 
 📋 Copy joke to clipboard feature
