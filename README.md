@@ -78,6 +78,7 @@ cd random-joke-generator
 
 ⭐ Favorite jokes system
 
+---
 **❤️ Contributing**
 
 - Contributions are welcome!
